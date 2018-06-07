@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: table;
+  background:rgb(27, 39, 49)
+}
+#root
+{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#root #header
+{ 
+  font-size:90px;
+  text-align:top;
+  vertical-align: top;
+  padding-bottom:4px;
+}
+#root #header #icon
+{
+  font-size:90px;
+  text-align:top;
+  vertical-align: top;
+}
